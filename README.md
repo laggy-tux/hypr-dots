@@ -35,11 +35,12 @@ These are my hyprland configs that I have been working and testing on! Hope you 
 
 ## 📸 Screenshots
 <p align="center">
-    <img width="750" src="https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-1.png" 
-    <img width="750" src="https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-2.png" 
+    <img width="900" src="https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-1.png" 
 </p> 
 
-
+<p align="center">
+    <img width="900" src="https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-2.png" 
+</p>
 
 
 <details>
