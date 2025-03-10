@@ -79,9 +79,9 @@ git clone https://github.com/laggy-tux/hypr-catppuccin.git
 >
 
 ## shoutouts!
-> this config has been inspired by the work of [Axenide](https://github.com/Axenide)!
+> this config has been inspired by the work of [Axenide](https://github.com/Axenide)! Elements and configs used in this rice has been taken from his dots from the "legacy" branch
 >
-> the GTK theme used is from [catppuccin](https://github.com/catppuccin/gtk)
+> the GTK theme used is from [catppuccin](https://github.com/catppuccin/gtk). the exact gtk theme i am rocking is the *catppuccin-mocha*
 
 
 ##
