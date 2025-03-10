@@ -82,6 +82,8 @@ git clone https://github.com/laggy-tux/hypr-catppuccin.git
 ##
 
 <div align="center">
+    
 ## consider giving it a star if you have found it to be useful and worthwhile!
+
 </div>
 
