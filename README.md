@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="750" src="https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/HYPR-.png" 
+    <img width="750" src="https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/main-image.png" 
 </p>   
 
 <h2 align="center">✨ my minimal hyprland configs</h1>
