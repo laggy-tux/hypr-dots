@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="750" src="https://github.com/laggy-tux/sway-Dots/assets/85402808/540ea4f1-cf41-4172-8f0e-ba95033973df" 
+    <img width="750" src="https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/HYPR-.png" 
 </p>   
 
-<h2 align="center">✨ simple and a minimal sway rice</h1>
+<h2 align="center">✨ my minimal hyprland configs</h1>
   
 Welcome and thanks for dropping by! These are my sway configs that i have been working and testing on!
 
@@ -12,9 +12,9 @@ Hope you like it!
 ## ⚡ Dependencies
 
 ```
-    > OS: EndeavourOS
+    > OS: cachyOS
  
-    > WM: Sway
+    > WM: hyprland
     
     > Topbar: Waybar
     
@@ -22,9 +22,9 @@ Hope you like it!
 
     > GTK: Catpuccin-Mocha
 
-    > Font: JetBrains mono
+    > Font: Fira Sans
 
-    > Terminal: Kitty
+    > Terminal: alacritty
 
     > TextEditor: Geany
 
