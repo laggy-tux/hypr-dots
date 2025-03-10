@@ -1,0 +1,22 @@
+
+### J7Z Profile
+
+# Type
+Archive_Format = 7-Zip
+Compression_Level = Fast
+Volume_Size = Unlimited
+Self-Extracting = false
+
+# Security
+Header_Encryption = false
+Password = false
+
+# Destination
+Structured = true
+Separate = true
+Destination_Dir = /mnt/Storage/Backup/J7Z/
+Archive_Name = false
+
+# Misc
+Switches = true
+Switches_List = -w

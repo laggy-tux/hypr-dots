@@ -1,0 +1,22 @@
+
+### J7Z Profile
+
+# Type
+Archive_Format = 7-Zip
+Compression_Level = Fast
+Volume_Size = Unlimited
+Self-Extracting = false
+
+# Security
+Header_Encryption = true
+Password = true
+
+# Destination
+Structured = false
+Separate = false
+Destination_Dir = 
+Archive_Name = false
+
+# Misc
+Switches = true
+Switches_List = -w

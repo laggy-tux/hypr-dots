@@ -1,0 +1,13 @@
+
+### J7Z External
+
+# P7Zip CLI executables
+# Usage: <command> [arguments]
+# First valid entry is chosen
+
+# Changes effective upon restart
+
+
+7z
+7za
+7zr

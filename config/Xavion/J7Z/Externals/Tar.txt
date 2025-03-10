@@ -1,0 +1,12 @@
+
+### J7Z External
+
+# Tar executables
+# Usage: <command> [arguments]
+# First valid entry is chosen
+
+# Changes effective upon restart
+
+
+tar
+bsdtar

@@ -1,0 +1,15 @@
+
+### J7Z External
+
+# Library (JAR) directories
+# Usage: <absolute path name>
+# All valid entries are searched
+
+# Changes effective upon restart
+
+
+/mnt/Secure/Programming/Java/Skins/New
+
+/mnt/Secure/Programming/Java/Skins/Good
+#/mnt/Secure/Programming/Java/Skins/Decent
+#/mnt/Secure/Programming/Java/Skins/Dodgy

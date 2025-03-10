@@ -1,0 +1,12 @@
+
+### J7Z External
+
+# P7Zip GUI executables
+# Usage: <command> [arguments]
+# First valid entry is chosen
+
+# Changes effective upon restart
+
+
+#p7zipForFilemanager
+7zG

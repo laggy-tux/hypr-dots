@@ -1,0 +1,11 @@
+[Added Associations]
+application/x-shellscript=geany.desktop;
+text/x-csrc=geany.desktop;
+application/pdf=google-chrome.desktop;
+application/x-zerosize=geany.desktop;
+application/zip=xarchiver.desktop;
+
+[Default Applications]
+application/pdf=google-chrome.desktop
+application/zip=xarchiver.desktop
+application/x-zerosize=geany.desktop

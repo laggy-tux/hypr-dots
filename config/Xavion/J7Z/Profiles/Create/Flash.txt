@@ -1,0 +1,22 @@
+
+### J7Z Profile
+
+# Type
+Archive_Format = Zip
+Compression_Level = Maximum
+Volume_Size = Unlimited
+Self-Extracting = false
+
+# Security
+Header_Encryption = false
+Password = false
+
+# Destination
+Structured = true
+Separate = true
+Destination_Dir = /media/Flash/Backup/J7Z/
+Archive_Name = false
+
+# Misc
+Switches = true
+Switches_List = -w

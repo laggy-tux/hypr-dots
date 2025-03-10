@@ -1,0 +1,14 @@
+
+### J7Z Profile
+
+# Security
+Password = false
+
+# Destination
+Beneath = true
+Destination_Dir = 
+Folder_Name = false
+
+# Misc
+Switches = false
+Switches_List = -w
