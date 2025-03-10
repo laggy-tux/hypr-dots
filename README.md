@@ -3,7 +3,7 @@
 </p>   
 
 <p align="center">
-    Welcome and thanks for dropping by! These are my sway configs that i have been working and testing on! Hope you like it! 
+   ## Welcome and thanks for dropping by! These are my sway configs that i have been working and testing on! Hope you like it! 
 </p>
 
 
