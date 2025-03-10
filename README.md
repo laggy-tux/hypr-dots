@@ -39,22 +39,21 @@ https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-1.png
 
 https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-2.png
 
+<details>
+  <summary><strong><h2 style="display: inline;">Miscellaneous Shots</h2></strong></summary>
+
+  **Launcher:**
+
+  ![menu](https://github.com/user-attachments/assets/b95b6253-3fc0-42c9-9608-3d10284ada2a)
+
+  **PowerMenu:**
+
+  ![wewe](https://github.com/user-attachments/assets/316363dd-2173-4011-ab59-915b487f0002)
+
+</details>
 
 
-<h2>miscellaneous shots</h2>
 
-
-**Transparency:**
-
-![transparency](https://github.com/laggy-tux/sway-Dots/assets/85402808/413164ad-6c5d-404d-beb5-a255b842838d)
-
-**Launcher:**
-
-![menu](https://github.com/user-attachments/assets/b95b6253-3fc0-42c9-9608-3d10284ada2a)
-
-**PowerMenu:**
-
-![wewe](https://github.com/user-attachments/assets/316363dd-2173-4011-ab59-915b487f0002)
 
 
 
