@@ -75,15 +75,16 @@ git clone https://github.com/laggy-tux/hypr-dots.git
 
 > *Refer the [keybinds](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/hypr/config/keybinds.conf) as modifications have been made to the sway shortcuts*
 >
-> feel free to add and remove elements from the *waybar*. check out the different elements available for the waybar [here!](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/waybar/config.jsonc)
+> Feel free to add and remove elements from the *waybar*. check out the different elements available for the waybar [here!](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/waybar/config.jsonc).
 >
+> The media player in the waybar only comes up when something is played or watched. 
 
 
 
 ## shoutouts!
-> this config has been inspired by the work of [Axenide](https://github.com/Axenide)! Elements and configs used in this rice has been taken from his dots from the "legacy" branch
+> This config has been inspired by the work of [Axenide](https://github.com/Axenide)! Elements and configs used in this rice has been taken from his dots from the "legacy" branch
 >
-> the GTK theme used is from [catppuccin](https://github.com/catppuccin/gtk). the exact gtk theme i am rocking is the *catppuccin-mocha*
+> The GTK theme used is from [catppuccin](https://github.com/catppuccin/gtk). the exact gtk theme i am rocking is the *catppuccin-mocha*
 
 
 ##
