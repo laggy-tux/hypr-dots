@@ -78,6 +78,11 @@ git clone https://github.com/laggy-tux/hypr-catppuccin.git
 > feel free to add and remove elements from the *waybar*. check out the different elements available for the waybar [here!](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/waybar/config.jsonc)
 >
 
+## shoutouts!
+> this config has been inspired by the work of [Axenide](https://github.com/Axenide)!
+>
+> the GTK theme used is from [catppuccin](https://github.com/catppuccin/gtk)
+
 
 ##
 
