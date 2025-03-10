@@ -2,11 +2,13 @@
     <img width="750" src="https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/main-image.png" 
 </p>   
 
-<p align="center">
-   <h2>Welcome and thanks for dropping by!</h2>
-   These are my sway configs that I have been working and testing on! Hope you like it!
-</p>
+<div align="center">
 
+## Welcome and thanks for dropping by!
+
+These are my hyprland configs that I have been working and testing on! Hope you like it!
+
+</div>
 
 
 ## Details!
