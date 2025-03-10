@@ -3,8 +3,10 @@
 </p>   
 
 <p align="center">
-   ## Welcome and thanks for dropping by! These are my sway configs that i have been working and testing on! Hope you like it! 
+   <h2>Welcome and thanks for dropping by!</h2>
+   These are my sway configs that I have been working and testing on! Hope you like it!
 </p>
+
 
 
 ## Details!
