@@ -66,7 +66,7 @@ These are my hyprland configs that I have been working and testing on! Hope you 
 *Disclaimer: NEVER COPY AND PASTE THE CONTENTS OF THE DOTS WITHOUT REVIEWING THE CONTENTS*
 
 ```bash
-git clone https://github.com/laggy-tux/hypr-catppuccin.git
+git clone https://github.com/laggy-tux/hypr-dots.git
 ```
 
 ##
