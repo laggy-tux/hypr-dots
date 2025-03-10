@@ -39,7 +39,7 @@ https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-1.png
 
 https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-2.png
 
-<details>
+
 
 <h2>miscellaneous shots</h2>
 
@@ -57,7 +57,7 @@ https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-2.png
 ![wewe](https://github.com/user-attachments/assets/316363dd-2173-4011-ab59-915b487f0002)
 
 
-</details>
+
 
 ## Installation
 
