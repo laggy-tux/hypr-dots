@@ -40,7 +40,9 @@ https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-1.png
 https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-2.png
 
 <details>
-  <summary><strong><h2 style="display: inline;">Miscellaneous Shots</h2></strong></summary>
+  <summary style="display: inline-block; cursor: pointer;">
+    <span style="font-size: 1.5em; font-weight: bold;">Miscellaneous Shots</span>
+  </summary>
 
   **Launcher:**
 
@@ -51,6 +53,7 @@ https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-2.png
   ![wewe](https://github.com/user-attachments/assets/316363dd-2173-4011-ab59-915b487f0002)
 
 </details>
+
 
 
 
