@@ -78,6 +78,8 @@ git clone https://github.com/laggy-tux/hypr-catppuccin.git
 > feel free to add and remove elements from the *waybar*. check out the different elements available for the waybar [here!](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/waybar/config.jsonc)
 >
 
+
+
 ## shoutouts!
 > this config has been inspired by the work of [Axenide](https://github.com/Axenide)! Elements and configs used in this rice has been taken from his dots from the "legacy" branch
 >
