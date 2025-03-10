@@ -22,6 +22,8 @@ These are my hyprland configs that I have been working and testing on! Hope you 
     
     > Menu: Wofi
 
+    > notification deamon: mako
+
     > GTK: Catpuccin-Mocha
 
     > Font: Fira Sans
@@ -59,53 +61,26 @@ These are my hyprland configs that I have been working and testing on! Hope you 
 </details>
 
 
-
-
-
-
-
-
-
 ## Installation
 
-*Disclaimer: Edit the resolutions and other things for ur device before replacing ur your configs,copying the text below will open up the waybar config file for you to change resolutions.. The second edit you would have to make is for wallpaper(set the location of the wallpaer in line **18**)*
+*Disclaimer: NEVER COPY AND PASTE THE CONTENTS OF THE DOTS WITHOUT REVIEWING THE CONTENTS*
 
 ```bash
-git clone https://github.com/laggy-tux/sway-Dots.git
-cd sway-Dots
-nano ~/.config/waybar/config
-nano ~/.config/sway/config.d/theme
+git clone https://github.com/laggy-tux/hypr-catppuccin.git
 ```
-> copy the files to the **.config** dir
-> 
-> **super+Shift+C** to reload.
 
 ##
 
 ## Things to look out for
 
-> *Refer the [cheatSheet](https://github.com/laggy-tux/sway-Dots/blob/main/cheatsheet) as modifications have been made to the sway shortcuts*
+> *Refer the [keybinds](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/hypr/config/keybinds.conf) as modifications have been made to the sway shortcuts*
 >
-> To add and remove stuufs to the *waybar* check ```~/.config.waybar/config``` there are modules for weather and other things which i have not added
+> feel free to add and remove elements from the *waybar*. check out the different elements available for the waybar [here!](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/waybar/config.jsonc)
 >
-> If the powermenu does not work please:
- ```
-chmod +x path/to/wofi-power.sh
-./wofi-power.sh
-```
+
 
 ##
 
-## Rice specific info
-
-> Does not use any motification manager because I dont really need any notifications popping up
->
-> Does use transparency
->
-> Only has 5 workspaces due to me not requiring any more than that... incase more is needed, it can be added
-
-##
-
-<h2>If any issues please raise it.. i'll try my best to rectify :)</h2>
+## consider giving it a star if you have found it to be useful and worthwhile!
 
 
