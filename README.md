@@ -11,7 +11,7 @@ These are my hyprland configs that I have been working and testing on! Hope you 
 </div>
 
 
-## Details!
+## Details:
 
 ```
     > OS: cachyOS
@@ -33,15 +33,16 @@ These are my hyprland configs that I have been working and testing on! Hope you 
     > File manager: Thunar
 ```
 
+## 📸 Screenshots
+
+https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-1.png
+
+https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-2.png
+
 <details>
 <summary><i>
-<h2>📸 Screenshots</h2>
+<h2>miscellaneous</h2>
 </i></summary>
-
-
-**Desktop:**
-
-![ricess](https://github.com/laggy-tux/sway-Dots/assets/85402808/1d9641cd-68e7-4dce-8f9f-287dbc231a81)
 
 **Transparency:**
 
@@ -49,11 +50,12 @@ These are my hyprland configs that I have been working and testing on! Hope you 
 
 **Launcher:**
 
-![menu](https://github.com/laggy-tux/sway-Dots/assets/85402808/ab85ca5e-742d-4ed9-aa13-71d34789ae8f)
+![menu](https://github.com/user-attachments/assets/b95b6253-3fc0-42c9-9608-3d10284ada2a)
 
 **PowerMenu:**
 
-![wewe](https://github.com/laggy-tux/sway-Dots/assets/85402808/69d9986f-553d-44db-b278-279c77b6b354)
+![wewe](https://github.com/user-attachments/assets/316363dd-2173-4011-ab59-915b487f0002)
+
 
 </details>
 
