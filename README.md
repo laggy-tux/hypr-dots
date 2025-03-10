@@ -2,14 +2,12 @@
     <img width="750" src="https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/main-image.png" 
 </p>   
 
-<h2 align="center">✨ my minimal hyprland configs</h1>
-  
 Welcome and thanks for dropping by! These are my sway configs that i have been working and testing on!
 
 Hope you like it! 
 
 
-## ⚡ Dependencies
+## Details!
 
 ```
     > OS: cachyOS
