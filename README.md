@@ -40,9 +40,9 @@ https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-1.png
 https://github.com/laggy-tux/hypr-catppuccin/blob/main/readme-files/hypr-2.png
 
 <details>
-<summary><i>
-<h2>miscellaneous</h2>
-</i></summary>
+
+<h2>miscellaneous shots</h2>
+
 
 **Transparency:**
 
