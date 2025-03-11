@@ -73,7 +73,7 @@ git clone https://github.com/laggy-tux/hypr-dots.git
 
 ## Things to look out for
 
-> *Refer the [keybinds](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/hypr/config/keybinds.conf) as modifications have been made to the sway shortcuts*
+> *Refer the [keybinds](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/hypr/config/keybinds.conf) as modifications have been made to the shortcuts*
 >
 > Feel free to add and remove elements from the *waybar*. check out the different elements available for the waybar [here!](https://github.com/laggy-tux/hypr-catppuccin/blob/main/config/waybar/config.jsonc).
 >
